@@ -9,16 +9,9 @@ Welcome to my 100 Days of Data Structures and Algorithms challenge using Java on
 
 ## ✅ Streak Progress
 
-- **Current Streak:** 0 Days
-- **Total Problems Solved:** 0
+- **Current Streak:** 1 Days
+- **Total Problems Solved:** 1
 - **Challenge Started On:** April 19, 2025
 
 ---
 
-## 📅 Daily Problem Log
-
-| Day   | Date       | Problem(s) Solved                           | Topic         |
-|-------|------------|----------------------------------------------|----------------|
-| Day 01| 2025-04-19 | [Missing Number](Day01/MissingNumber.java) | Arrays, XOR     |
-| Day 02| 2025-04-20 | [Kth Largest Element](Day02/KthLargest.java) | Heaps           |
-| ...   | ...        | ...                                          | ...             |
